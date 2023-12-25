@@ -51,29 +51,35 @@ Program for  Implementation-of Shift-registers-using-verilog-
 Developed by: 
 RegisterNumber:  
 */
+### SERIAL INPUT PARALLEL OUTPUT:
+![SIPO CODE](https://github.com/Dhanusha17/Exercise-09-Shift-registers-using-verilog-/assets/151549957/e7f1edd2-cade-4db6-a56f-621c47f9de43)
 
+### PARALLEL INPUT SERIAL OUTPUT:
+![PISO CODE](https://github.com/Dhanusha17/Exercise-09-Shift-registers-using-verilog-/assets/151549957/a5316c26-e29c-4a6b-aa41-0fe82179cefe)
 
-
-
-
+### PARALLEL INPUT PARALLEL OUTPUT:
+![PIPO CODE](https://github.com/Dhanusha17/Exercise-09-Shift-registers-using-verilog-/assets/151549957/aee4fb24-d9b6-4065-a94d-c5f600461a47)
 
 ### RTL LOGIC  REGISTERS   
+### SERIAL INPUT PARALLEL OUTPUT:
+![SIPO RTL](https://github.com/Dhanusha17/Exercise-09-Shift-registers-using-verilog-/assets/151549957/3b72e302-6cac-4121-bb0f-fc90a3773a9c)
 
+### PARALLEL INPUT SERIAL OUTPUT:
+![PISO RTL](https://github.com/Dhanusha17/Exercise-09-Shift-registers-using-verilog-/assets/151549957/5c70b1da-1359-4c5d-83d5-cc28cd65c5a4)
 
-
-
-
-
-
-
+### PARALLEL INPUT PARALLEL OUTPUT:
+![PIPO RTL](https://github.com/Dhanusha17/Exercise-09-Shift-registers-using-verilog-/assets/151549957/3671a5cf-ad9f-4855-83ef-6302d199124a)
 
 ### TIMING DIGRAMS FOR SHIFT REGISTERS
+### SERIAL INPUT PARALLEL OUTPUT:
+![SIPO TIME](https://github.com/Dhanusha17/Exercise-09-Shift-registers-using-verilog-/assets/151549957/647db7b8-c808-49c5-8d17-2ce85f07fcbf)
 
+### PARALLEL INPUT SERIAL OUTPUT:
+![PISO TIME](https://github.com/Dhanusha17/Exercise-09-Shift-registers-using-verilog-/assets/151549957/e7fc9d76-9f90-496d-a60c-2a9e9fd1337f)
 
+### PARALLEL INPUT PARALLEL OUTPUT:
+![PIPO TIME](https://github.com/Dhanusha17/Exercise-09-Shift-registers-using-verilog-/assets/151549957/7ef913dd-e4cf-4fc5-b8ae-41fc13fa8185)
 
-
-
-
-
-
-### RESULTS 
+### RESULTS :
+Implementation of PISO , PIPO, PISO using verilog program is done and its functionality is validated
+using their functional tables.
